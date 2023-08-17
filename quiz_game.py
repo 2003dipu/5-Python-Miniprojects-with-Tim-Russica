@@ -29,7 +29,7 @@ if answer == "random access memory":
     print('Correct!')
     score += 1
 else:
-    print("Incorrect!")
+    print("Incorrect! ")
 
 print("------------------4'th Question--------------------")
 answer = input("What does PSU stand for? : ").lower()
