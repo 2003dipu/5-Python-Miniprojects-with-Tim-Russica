@@ -37,6 +37,6 @@ if answer == "power supply":
     print('Correct!')
     score += 1
 else:
-    print("Incorrect!")
+    print("Incorrect! ")
 print(f"----------------  You score is {score}  ------------")
 print("----------------  You got " + str((score/4)*100) + "%  ------------")
